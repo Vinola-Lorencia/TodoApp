@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Task 1",
+        "completed": true,
+        "priority": "Medium",
+        "deadline": "2099-01-01",
+        "pomodoro_sessions": 2
+    },
+    {
+        "id": 99,
+        "title": "Old Task",
+        "completed": false,
+        "priority": "Medium",
+        "deadline": "2000-01-01",
+        "pomodoro_sessions": 0
+    }
+]
