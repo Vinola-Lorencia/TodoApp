@@ -7,7 +7,7 @@ FocusFlow adalah aplikasi desktop berbasis Python menggunakan PyQt5 yang diranca
 
 Project ini dibuat sebagai bagian dari tugas mata kuliah **Software Testing**, dengan implementasi automated testing dan CI/CD menggunakan GitHub Actions.
 
----
+--- Update for triggering GitHub Actionsjjjj
 
 ## 🚀 Features
 
@@ -30,6 +30,16 @@ Project ini dibuat sebagai bagian dari tugas mata kuliah **Software Testing**, d
 - GitHub Actions (CI/CD Pipeline)  
 
 ---
+
+## 🛠️ Cara Menjalankan Aplikasicccc
+1. Clone repository ini.
+2. Install dependensi:
+   ```bash
+   pip install -r requirements.txt
+3. Jalankan aplikasi:cc
+   ```bash
+   python -m App.ui
+4. Buka browser di (http://127.0.0.1:5000).
 
 ## 📁 Project Structure
 
