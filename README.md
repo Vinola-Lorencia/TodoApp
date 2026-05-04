@@ -31,7 +31,7 @@ Project ini dibuat sebagai bagian dari tugas mata kuliah **Software Testing**, d
 
 ---
 
-## 🛠️ Cara Menjalankan Aplikasicccc
+## 🛠️ Cara Menjalankan Aplikasi
 1. Clone repository ini.
 2. Install dependensi:
    ```bash
@@ -39,7 +39,7 @@ Project ini dibuat sebagai bagian dari tugas mata kuliah **Software Testing**, d
 3. Jalankan aplikasi:cc
    ```bash
    python -m App.ui
-4. Buka browser di (http://127.0.0.1:5000).
+
 
 ## 📁 Project Structure
 
