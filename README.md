@@ -41,7 +41,7 @@ Project ini dibuat sebagai bagian dari tugas mata kuliah **Software Testing**, d
    python -m App.ui
 
 
-## 📁 Project Structure
+## 📁 Project Structure edit
 
 ```txt
 App/
