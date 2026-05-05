@@ -49,7 +49,7 @@ def test_progress_after_multiple_actions():
     service = TaskService()
     service.tasks = []
 
-    t1 = service.add_task("Task 1")
+    t1 = service.add_task("Task 4")
     t2 = service.add_task("Task 2")
 
     service.complete_task(t1["id"])
