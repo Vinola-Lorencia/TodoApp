@@ -55,7 +55,7 @@ def test_progress_no_completed():
     service = TaskService()
     service.tasks = []
 
-    service.add_task("Study Testing")
+    service.add_task("Test Testing")
 
     assert service.calculate_progress() == 0
 
